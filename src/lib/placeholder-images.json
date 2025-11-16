@@ -1,0 +1,40 @@
+{
+  "placeholderImages": [
+    {
+      "id": "product1",
+      "description": "A blue Bugatti parked in a city.",
+      "imageUrl": "/usmhoodie.jpg",
+      "imageHint": "bugatti car"
+    },
+    {
+      "id": "product2",
+      "description": "A pair of modern noise-cancelling headphones on a desk.",
+      "imageUrl": "/bugatti_chiron.jpg",
+      "imageHint": "headphones"
+    },
+    {
+      "id": "product3",
+      "description": "An open textbook about algorithms.",
+      "imageUrl": "/clrs.jpg",
+      "imageHint": "textbook"
+    },
+    {
+      "id": "product4",
+      "description": "A small mini-fridge.",
+      "imageUrl": "/mini_fridge.jpg",
+      "imageHint": "mini fridge"
+    },
+    {
+      "id": "product5",
+      "description": "A portable bluetooth speaker.",
+      "imageUrl": "https://images.unsplash.com/photo-1588131153911-a4ea5189fe19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxibHVldG9vdGglMjBzcGVha2VyfGVufDB8fHx8MTc2MjUyMTY4OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "bluetooth speaker"
+    },
+    {
+      "id": "product6",
+      "description": "An ergonomic desk chair in a room.",
+      "imageUrl": "https://images.unsplash.com/photo-1757194455393-8e3134d4ce19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxkZXNrJTIwY2hhaXJ8ZW58MHx8fHwxNzYyNTIxNjg5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "desk chair"
+    }
+  ]
+}
