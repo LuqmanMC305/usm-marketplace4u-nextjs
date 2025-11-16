@@ -1,6 +1,6 @@
-# Campus Cart - A Next.js Marketplace
+# USM Marketplace4U - A Next.js Marketplace
 
-This is a Next.js starter project for "Campus Cart", a recommerce platform for college students, built in Firebase Studio.
+This is a Next.js project for "USM Marketplace4U", a recommerce platform for USM students. 
 
 ## Tech Stack & Architecture
 
